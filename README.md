@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Bookverse**
 
-- 🌱 I’m currently learning **Mern Stack, Machine Learning**
+- 🌱 I’m currently learning **Mern Stack, Data Analytics**
 
-- 💬 Ask me about **Reack js and Next js**
+- 💬 Ask me about **React js and Next js**
 
 - 📫 How to reach me **kasaraputejasamyuktha@gmail.com**
 
@@ -16,7 +16,7 @@
 <a href="https://twitter.com/samyuktha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samyuktha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kasarapu-tejasamyuktha-737299270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasarapu-tejasamyuktha-737299270" height="30" width="40" /></a>
 <a href="https://instagram.com/kasarapusamyuktha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kasarapusamyuktha" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/samyuktha96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samyuktha96" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/samyuktha2005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samyuktha96" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samyuktha02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samyuktha02" height="30" width="40" /></a>
 </p>
 
